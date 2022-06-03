@@ -1,0 +1,20 @@
+EC2
+-----
+
+-->login to Aws	
+-->go to services	
+-->click on Ec2		
+-->select Instance 	
+-->launchInstance	
+--> give Name	
+--> select OS
+-->create Key-pair -->download the key-pair
+--> click on launch instance 
+-->click the check box near the name
+-->click on connect
+-->go to RDP Client 
+--> download remote desktop file 
+--> decrypt password using key-pair --> copy the password
+
+-->open the downloded remote desktop  -->then give the password -->it will navigate to the new desktop
+
