@@ -1,0 +1,22 @@
+S3 steps:
+
+
+1.First go to search button and search for S3.
+
+2.Then create bucket
+
+3.we give bucket name as unique and hit create bucket button.
+
+4.click on created bucket ,upload files & folders and upload it.
+
+5. copy the url of particular bucket(object) and paste in browswer ,in browser showing like access deined.
+
+6.we can make it public and read access.
+
+7.go to permissions  and click block public access and remove all ticked marks and save changes (confirm).
+
+8.go to permissions click on object ownership .Select ACLs enabled ,bucket owner preferred and select enabling accepting acknowledge and save changes.
+
+9.select the bucket what you created,go to actions and select  Make public and save make public.
+
+10.copy the particular url of bucket what you created bucket and paste in browser .you got what we upload the files &folders...
